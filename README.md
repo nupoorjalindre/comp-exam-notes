@@ -1,4 +1,6 @@
-[Link to another page](./networks.md).
+[Networks](./networks.md).
+[Collaboration](./networks.md).
+[Rhetorics](./networks.md).
 
 # What this site contains
 This repository contains notes to all my readings lists. 
